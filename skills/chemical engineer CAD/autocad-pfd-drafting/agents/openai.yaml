@@ -1,0 +1,4 @@
+interface:
+  display_name: "AutoCAD PFD Drafting"
+  short_description: "Draft process flow diagrams in AutoCAD."
+  default_prompt: "Draft or revise a process flow diagram in AutoCAD using the configured AutoCAD MCP workflow."
