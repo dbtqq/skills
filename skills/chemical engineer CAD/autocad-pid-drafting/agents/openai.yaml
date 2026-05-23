@@ -1,0 +1,4 @@
+interface:
+  display_name: "AutoCAD P&ID Drafting"
+  short_description: "Draft piping and instrumentation diagrams in AutoCAD."
+  default_prompt: "Draft or revise a P&ID in AutoCAD using the configured AutoCAD MCP workflow."
