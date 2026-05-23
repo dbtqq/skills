@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aspen to AutoCAD PFD"
+  short_description: "Convert Aspen/HYSYS exports into AutoCAD PFD drafting inputs."
+  default_prompt: "Read Aspen Plus or HYSYS exported reports/tables, normalize them to PFD JSON, then draft the PFD in AutoCAD."
