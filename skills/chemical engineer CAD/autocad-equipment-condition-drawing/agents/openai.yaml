@@ -1,0 +1,4 @@
+interface:
+  display_name: "AutoCAD Equipment Condition Drawing"
+  short_description: "Draft equipment condition drawings in AutoCAD."
+  default_prompt: "Draft or revise an equipment condition drawing in AutoCAD using the configured AutoCAD MCP workflow."
